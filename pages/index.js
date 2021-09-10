@@ -4,12 +4,8 @@ const Index = () => {
 	return (
 		<div>
 			<div className="navbar">
-				<Link href="/" className="link">
-					Главная
-				</Link>
-				<Link href="/users" className="link">
-					Пользователи
-				</Link>
+				<A href={"/"} text="Главная" />
+				<A href={"/users"} text="Пользователи" />
 			</div>
 			<h1>Главная страница</h1>
 			<style jsx>
