@@ -1,0 +1,27 @@
+{
+  "name": "react-next-js-ssr",
+  "version": "1.0.0",
+  "description": "React-Next JS SSR",
+  "main": "index.js",
+  "dependencies": {
+    "next": "^11.1.2",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "next dev",
+
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/start20201202/React-Next-JS-SSR.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/start20201202/React-Next-JS-SSR/issues"
+  },
+  "homepage": "https://github.com/start20201202/React-Next-JS-SSR#readme"
+}
